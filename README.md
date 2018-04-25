@@ -1,3 +1,2 @@
-# Proyecto-Integrador-del-segundo-Parcial
+Informática
 
-410

@@ -22,3 +22,13 @@
 
 [Redes en Internet](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/redeseninternet)
 
+[Historia del Internet](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/historiadelinternet)
+
+[Beneficios del internet](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/Beneficios)
+
+[Robo de datos](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/robodedatos)
+
+[Conclusión](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/conclusion)
+
+
+

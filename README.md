@@ -5,7 +5,8 @@
 ![](https://rootear.com/files/2017/01/napmipci.jpg)
 
  **Preparatoria Federal Lázaro Cárdenas**
- - **Nombre de los integrantes de la investigación:**
+
+- **Nombre de los integrantes de la investigación:**
    > Chávez Turiján Rita 
  
    > Rodriguez López Jair

@@ -20,4 +20,4 @@
  - **Nombre de la materia:** Diseña Documentos Electrónicos
  - **Fecha de elaboración:** 25 de abril de 2018 
 
-![Redes en Internet](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/redeseninternet)
+![Redes en Internet](https://ritatj.github.io/Proyecto-Integrador-del-segundo-Parcial/redeseninterne)

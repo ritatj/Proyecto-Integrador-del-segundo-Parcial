@@ -17,5 +17,5 @@
        
  - **Grupo 410, Informática**
  - **Nombre del profesor:** René Soliz
- - **Nombre de la materia:** Diseña DOoumentos Electrónicos
+ - **Nombre de la materia:** Diseña Documentos Electrónicos
  - **Fecha de elaboración:** 25 de abril de 2018 
